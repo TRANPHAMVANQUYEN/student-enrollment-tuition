@@ -1,1 +1,3 @@
-gỉ
+<?php
+echo "Hello, World!";
+?>
